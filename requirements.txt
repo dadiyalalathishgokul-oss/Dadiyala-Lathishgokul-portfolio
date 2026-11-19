@@ -1,0 +1,2 @@
+# Uses Python 3 standard library (smtplib, email, http.server, urllib.request)
+# Zero external dependencies required for fast Vercel Serverless cold starts.
